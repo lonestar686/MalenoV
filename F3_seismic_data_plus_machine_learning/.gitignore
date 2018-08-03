@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+F3_classification_data/
+*.h5.backup
+F3_output/
+F3_output_2D/
+F3_seismic_data/
+__pycache__/
+binary
+header
